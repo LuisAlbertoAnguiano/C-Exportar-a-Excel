@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C# Exportar a Excel", "C# Exportar a Excel.csproj", "{4A0CA562-B2FC-4144-A2F2-2F9B9C6DF73B}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VB Exportar a Excel", "..\VB Exportar a Excel\VB Exportar a Excel.vbproj", "{6E92D897-9CB0-45C5-859A-1229F35EFDFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A0CA562-B2FC-4144-A2F2-2F9B9C6DF73B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A0CA562-B2FC-4144-A2F2-2F9B9C6DF73B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A0CA562-B2FC-4144-A2F2-2F9B9C6DF73B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A0CA562-B2FC-4144-A2F2-2F9B9C6DF73B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E92D897-9CB0-45C5-859A-1229F35EFDFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E92D897-9CB0-45C5-859A-1229F35EFDFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E92D897-9CB0-45C5-859A-1229F35EFDFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E92D897-9CB0-45C5-859A-1229F35EFDFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCE7B6FE-F771-4830-857C-ADD80647325D}
+	EndGlobalSection
+EndGlobal
